@@ -9,6 +9,9 @@
 ## Como Executar o código:
 - Qualquer compilador Web Já fuciona. (GDB, Programiz, Etc)
 
+## OBSERVAÇÃO
+- No vídeo colocamos a execução sendo feita de forma estilizada pelo remotion, porém, se testar no compilador, vai perceber que funciona da mesma forma e realiza a saída dos mesmos valores. Achamos importante avisar para não haver dúvidas referente a execução do código.
+
 ## Referências:
 
 CORMEN, T. H. et al. **Algoritmos: Teoria e Prática**. 3. ed. Rio de Janeiro: Elsevier, 2012. Disponível em: https://books.google.com/books/about/Algoritmos_Teoria_e_Prática.html?id=6iA4LgEACAAJ. Acesso em: 25 de junho de 2026.
